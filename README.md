@@ -1,4 +1,9 @@
-# 🤖 CompiledBrains
+<h1 align="center">🤖 CompiledBrains</h1>
+
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&duration=6000&pause=1000&color=A5F7D1&center=true&vCenter=true&width=1000&lines=We+are+Compiled+Brains">
+</h2>
 
 Welcome to the official **CompiledBrains** public repository! This repository serves as the central hub for our company's activities, providing insights into our mission, vision, and contributions to the world of software development.
 
